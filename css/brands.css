@@ -604,3 +604,10 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+
+/* Credly Badges */
+.button-credly-badges {
+    --button-text: #ffffff;
+    --button-background: #086b72;
+    --button-border: 1px solid #FFFFFF;
+}
